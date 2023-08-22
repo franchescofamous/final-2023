@@ -7,5 +7,11 @@
     { "id": 5, "titre": "Abati", "artiste": "Anadaboy" },
     { "id": 6, "titre": "ole", "artiste": "bxnx" }
   ],
-  "users": []
+  "users": [
+    { "id": 1, "nom": "famous", "mdp": "booba" },
+    { "id": 2, "nom": "rio", "mdp": "kalash" },
+    { "id": 3, "nom": "ronaldo", "mdp": "cr7" },
+    { "id": 4, "nom": "jamal", "mdp": "abcd" },
+    { "id": 5, "nom": "robert", "mdp": "willo" }
+  ]
 }
