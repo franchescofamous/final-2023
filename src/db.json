@@ -1,0 +1,11 @@
+{
+  "musics": [
+    { "id": 1, "titre": "papa ou t'es", "artiste": "stromae" },
+    { "id": 2, "titre": "jowo", "artiste": "davido" },
+    { "id": 3, "titre": "fall", "artiste": "davido" },
+    { "id": 4, "titre": "ksm", "artiste": "Naza" },
+    { "id": 5, "titre": "Abati", "artiste": "Anadaboy" },
+    { "id": 6, "titre": "ole", "artiste": "bxnx" }
+  ],
+  "users": []
+}

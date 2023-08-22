@@ -1,0 +1,37 @@
+.head {
+  display: flex;
+  height: 10vh;
+  justify-content: flex-end;
+  gap: 30vh;
+}
+
+.head ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+.head menu {
+  list-style-type: none;
+  margin: 0;
+  background-color: pink;
+  height: 8vh;
+  width: 25%;
+}
+.head .userName {
+  height: 8vh;
+  width: 15%;
+  background-color: red;
+}
+
+.trackList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3vh;
+}
+.track {
+  height: 10vh;
+  width: 40%;
+  border: 1px solid black;
+}
